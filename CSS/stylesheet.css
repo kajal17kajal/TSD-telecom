@@ -303,7 +303,7 @@ header .btn_login{
 	width:100px;
 	height:100px;
 	border-radius:50%;
-	display:block;
+	display:flex;
 	background-color:#0D211D;
 	position:absolute;
 	justify-content:center;
@@ -325,7 +325,6 @@ header .btn_login{
 }
 .work-process .video img{
 	max-width:890px;
-	width:100%;
 }
 .work-process .video{
 	position:relative;
